@@ -9,7 +9,6 @@ Designed to be lightweight, easy to maintain, and extendable.
 - Centralized notification handling
 - Player identifier helper functions
 - Framework-agnostic (QBCore, QBX, ESX, Standalone)
-- Easy to extend for your own BL scripts
 
 ---
 
