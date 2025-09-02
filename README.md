@@ -1,6 +1,6 @@
 # BL Lib
 
-**Shared library for BL resources** – provides reusable functions and helpers for QBCore, QBX, ESX, and Standalone scripts.  
+**Shared library for BL resources** – provides reusable functions and helpers for QBCore, ESX, and Standalone scripts.  
 Designed to be lightweight, easy to maintain, and extendable.
 
 ---
@@ -8,7 +8,7 @@ Designed to be lightweight, easy to maintain, and extendable.
 ## ✨ Features
 - Centralized notification handling
 - Player identifier helper functions
-- Framework-agnostic (QBCore, QBX, ESX, Standalone)
+- Framework-agnostic (QBCore, ESX, Standalone)
 
 ---
 
